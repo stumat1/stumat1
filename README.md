@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @stumat1
-- 👀 I’m interested in many things
-- 🌱 I’m currently studying: BSc (Honours) Computing & IT (with Networking) @The Open University UK
-
+- Hi, I’m @stumat1
+- I’m currently studying: BSc (Honours) Computing & IT (with Networking) @The Open University UK
+- Personal website: stuartsm3.com
 
 <!---
 stumat1/stumat1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
