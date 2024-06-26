@@ -1,5 +1,5 @@
 - Hi, I’m @stumat1
-- I’m currently studying: BSc (Honours) Computing & IT (with Networking) @ The Open University, UK
+- I’m currently studying: BSc (Honours) Computing & IT with Networking @ The Open University, UK
 - My GitHub Website is here: stumat1.github.io
 
 <!---
