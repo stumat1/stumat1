@@ -1,6 +1,6 @@
-- Hi, I’m @stumat1
-- I’m currently studying: BSc (Honours) Computing & IT with Networking @ The Open University, UK
-- My GitHub Website is here: stumat1.github.io
+- Hello, I’m @stumat1
+- I am currently studying for a BSc Computing & IT with Networking @ The Open University, UK
+- My GitHub Website is here - stumat1.github.io
 
 <!---
 stumat1/stumat1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
