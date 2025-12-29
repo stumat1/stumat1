@@ -1,6 +1,7 @@
-- Hello, I’m @stumat1
-- I am currently studying for a BSc Computing & IT with Networking @ The Open University, UK
-- My GitHub Website is here - stumat1.github.io
+- Hello, I’m @stumat1 (Stuart)
+- I am a BSc Computing & IT graduate in Scotland
+- My GitHub Website is here - https://stumat1.github.io
+- This is echoed at https://stuartsm.com
 
 <!---
 stumat1/stumat1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
