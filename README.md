@@ -1,6 +1,6 @@
-- Hello, I am @stumat1 (Stuart)
+- Hello, I am @stumat1 (Stuart Mathieson)
 - I am a BSc Computing & IT graduate living in Scotland
-- My GitHub Website is here - https://stumat1.github.io
+- My GitHub resume/cv Website is here - https://stumat1.github.io
 - This is echoed at https://stuartsm.com
 
 <!---
