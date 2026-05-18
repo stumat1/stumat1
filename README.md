@@ -1,5 +1,6 @@
-- Hello, I am @stumat1 (Stuart Mathieson)
-- I am a BSc Computing & IT graduate living in Scotland
+- Hello, I am Stuart Mathieson (@stumat1)
+- I am a BSc Computing & IT graduate with Networking graduate living in Scotland
+- Currently I am an IT consultant
 - My GitHub resume/cv website is here - https://stumat1.github.io
 - This is echoed at https://stuartsm.com
 
