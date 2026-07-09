@@ -1,5 +1,4 @@
-- Hello, I am Stuart Mathieson (@stumat1)
-- I am a BSc Computing & IT with Networking graduate living in Scotland
+- Hello, my name is Stuart Mathieson (@stumat1)
 - Currently I am an IT consultant
 - My resume/cv website is here https://stuartsm.com
 
