@@ -1,5 +1,5 @@
 - Hello, my name is Stuart Mathieson (@stumat1)
-- Currently I am an IT consultant
+- I am an IT consultant
 - My resume/cv website is here https://stuartsm.com
 
 <!---
